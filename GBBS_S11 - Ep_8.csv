@@ -1,0 +1,13 @@
+series,baker_full,baker,age,occupation,hometown,star_baker,technical_winner,technical_top3,technical_bottom,technical_highest,technical_median,series_winner,series_runner_up,percent_technical_top3,rank,bread_top,cake_top,biscuit_top,chocolate_count,orange_count,age_<20,age_20s,age_30s,age_40s,age_50s,age_>60,short_towns
+11,Dave Friday,Dave,30,Armoured security guard,Hampshire,1,1,2,2,1,5.5,0,0,25,0,0,0,1,0,0,0,0,1,0,0,0,Hampshire
+11,Hermine,Hermine,39,Accountant,London,2,1,3,0,1,4.5,0,0,37.5,0,0,1,0,0,0,0,0,1,0,0,0,London
+11,Laura Adlington,Laura,31,Digital manager,Kent,1,1,2,1,1,6,0,0,25,0,0,0,0,0,0,0,0,1,0,0,0,Kent
+11,Linda Rayfield,Linda,61,Retirement living team leader,Sussex,0,2,2,2,1,4,0,0,25,0,0,0,0,0,0,0,0,0,0,0,1,Sussex
+11,Loriea Campbell-Clarey,Loriea,27,Diagnostic radiographer,Durham,0,0,0,0,10,10,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,Durham
+11,Lottie Bedlow,Lottie,31,Pantomime producer,Sussex,1,0,1,1,2,5,0,0,12.5,0,0,0,0,0,0,0,0,1,0,0,0,Sussex
+11,"Makbul ""Mak"" Patel",Mak,51,Accountant,Manchester,0,0,1,0,3,5.5,0,0,12.5,0,0,0,0,0,0,0,0,0,0,1,0,Manchester
+11,Marc Elliott,Marc E,51,Bronze resin sculptor,Cornwall,1,0,3,0,2,6,0,0,37.5,0,1,0,1,0,0,0,0,0,0,1,0,Cornwall
+11,Mark Lutton,Mark L,32,Project manager,Ireland,1,0,4,0,2,3,0,0,50,0,0,0,1,0,0,0,0,1,0,0,0,Ireland
+11,Peter Swakins,Peter,20,Accounting & finance student,Edinburgh,1,1,4,0,1,3,0,0,50,0,0,1,0,0,0,0,1,0,0,0,0,Edinburgh
+11,Rowan Williams,Rowan,55,Music teacher,Worcestershire,0,0,1,2,3,10,0,0,12.5,0,0,0,0,0,0,0,0,0,0,1,0,Worcestershire
+11,Sura Selvarajah,Sura,31,Hospital pharmacy dispenser,London,0,1,1,0,1,6.5,0,0,12.5,0,1,1,0,0,0,0,0,1,0,0,0,London
